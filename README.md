@@ -29,6 +29,12 @@ cp zsh/zshrc ~/.zshrc
 brew install tmux
 ```
 
+#### current version
+```
+$ tmux -V
+tmux 3.1b
+```
+
 ### setup
 ```
 cp ~/.tmux.conf ~/.tmux.conf.org
